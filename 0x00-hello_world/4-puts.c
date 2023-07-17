@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
  * main -A program that prints a line with puts function
- * return: 0; on successful execution, non-zero on errors.
+ * Return: always 0 success
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-return : (0);
+Return: (0);
 }
